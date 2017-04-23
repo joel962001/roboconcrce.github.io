@@ -154,12 +154,15 @@ header {
   z-index: 10;
   float: right;
 }
-.dropdown-menu li{
-background:#d3d3d3;
+.dropdown-menu.li{
+background:#00000;
+
 }
+
 .divider li{
 padding: 10;
 color: #000000;
+}
 .nav-collapse_ .nav li {
   margin: 0;
   padding: 0;
