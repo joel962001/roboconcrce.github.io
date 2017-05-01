@@ -1390,3 +1390,15 @@ footer {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+.table{
+	
+	width:100%}
+
+.center{
+text-align:center;
+}
+th{
+	height:50px;
+	text-align:center;
+	}
