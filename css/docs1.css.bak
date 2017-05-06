@@ -191,7 +191,7 @@
 #panel .dropup .caret,
 #panel .navbar-fixed-bottom .dropdown .caret {
   border-top: 0;
-  border-bottom: 4px solid #FF000;
+  border-bottom: 4px solid #000000;
   content: "\2191";
 }
 

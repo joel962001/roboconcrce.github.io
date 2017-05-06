@@ -349,6 +349,10 @@ p {
 .bg-content {
   background: url(../img/bg-content.jpg) 50% 50%;
 }
+.bg-content2 {
+ 
+  
+}
 .block-slogan {
   overflow: hidden;
   padding-bottom: 44px;
@@ -1401,4 +1405,16 @@ text-align:center;
 th{
 	height:50px;
 	text-align:center;
-	}
+}
+.iconA{
+overflow:auto;
+float:left; 
+height:300px;
+width:300px; 
+}
+.iconB{
+overflow:auto;
+float:right; 
+height:300px;
+width:300px; 
+}
