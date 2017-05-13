@@ -349,9 +349,11 @@ p {
 .bg-content {
   background: url(../img/bg-content.jpg) 50% 50%;
 }
+
 .bg-content2 {
- 
-  
+ background: url(../img/bg-content.jpg) 50% 50%;
+ position:relative;
+  width: 1170px;
 }
 .block-slogan {
   overflow: hidden;
@@ -1419,5 +1421,6 @@ height:300px;
 width:300px; 
 }
 .thumbnail{
-padding:15px;
+margin:15px;
+
 }
