@@ -965,7 +965,7 @@ footer {
 	width: 48px;
 	margin: 5px;
 	float: left;
-	border-radius: 40%;
+	border-radius: 50%;
 	-webkit-transition: all ease 0.3s;
 	-moz-transition: all ease 0.3s;
 	-o-transition: all ease 0.3s;
@@ -974,7 +974,7 @@ footer {
 }
 .social-roll_insta:hover {
 	background-image: url('../img/instagram_hover.png');
-	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
 	-o-transform:rotate(360deg);
@@ -987,7 +987,7 @@ footer {
 	width: 48px;
 	margin: 5px;
 	float: left;
-	border-radius: 40%;
+	border-radius: 50%;
 	-webkit-transition: all ease 0.3s;
 	-moz-transition: all ease 0.3s;
 	-o-transition: all ease 0.3s;
@@ -996,7 +996,7 @@ footer {
 }
 .social-roll_facebook:hover {
 	background-image: url('../img/facebook_hover.png');
-	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
 	-o-transform:rotate(360deg);
@@ -1009,7 +1009,7 @@ footer {
 	width: 48px;
 	margin: 5px;
 	float: left;
-	border-radius: 40%;
+	border-radius: 50%;
 	-webkit-transition: all ease 0.3s;
 	-moz-transition: all ease 0.3s;
 	-o-transition: all ease 0.3s;
@@ -1018,7 +1018,7 @@ footer {
 }
 .social-roll_youtube:hover {
 	background-image: url('../img/youtube_hover.png');
-	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
 	-o-transform:rotate(360deg);
@@ -1027,11 +1027,11 @@ footer {
 }
 .social-roll_twitter {
 	background-image: url('../img/twitter.png');
-	height: 48px;
-	width: 48px;
+	height: 32px;
+	width: 32px;
 	margin: 5px;
 	float: left;
-	border-radius: 40%;
+	border-radius: 50%;
 	-webkit-transition: all ease 0.3s;
 	-moz-transition: all ease 0.3s;
 	-o-transition: all ease 0.3s;
@@ -1040,7 +1040,7 @@ footer {
 }
 .social-roll_twitter:hover {
 	background-image: url('../img/twitter_hover.png');
-	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
 	-o-transform:rotate(360deg);
