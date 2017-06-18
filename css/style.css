@@ -958,7 +958,7 @@ footer {
 }
 
 .social-roll_insta {
-	background-image: url('../img/Instagram.png');
+	background-image: url('../img/Ynstagram.png');
 	height: 48px;
 	width: 48px;
 	margin: 5px;
@@ -971,7 +971,7 @@ footer {
 	transition: all ease 0.3s;
 }
 .social-roll_insta:hover {
-	background-image: url('../img/Instagram_hover.png');
+	background-image: url('../img/Ynstagram_hover.png');
 	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
