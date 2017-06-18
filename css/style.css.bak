@@ -956,9 +956,7 @@ footer {
   float: left;
   margin-left: 5px;
 }
-.list-social a:hover {
-  background-position: 0 bottom;
-}
+
 .social-roll_insta {
 	background-image: url('../img/instagram.png');
 	height: 48px;
