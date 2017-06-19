@@ -958,7 +958,7 @@ footer {
 }
 
 .social-roll_insta {
-	background-image: url('../img/G.png');
+	background-image: url('../img/social/G.png');
 	height: 48px;
 	width: 48px;
 	margin: 5px;
@@ -971,7 +971,7 @@ footer {
 	transition: all ease 0.3s;
 }
 .social-roll_insta:hover {
-	background-image: url('../img/G_hover.png');
+	background-image: url('../img/social/G_hover.png');
 	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
@@ -980,7 +980,7 @@ footer {
 	transform:rotate(360deg);
 }
 .social-roll_facebook {
-	background-image: url('../img/facebook2.png');
+	background-image: url('../img/social/facebook2.png');
 	height: 48px;
 	width: 48px;
 	margin: 5px;
@@ -993,7 +993,7 @@ footer {
 	transition: all ease 0.3s;
 }
 .social-roll_facebook:hover {
-	background-image: url('../img/Facebook_hover.png');
+	background-image: url('../img/social/Facebook_hover.png');
 	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
@@ -1002,7 +1002,7 @@ footer {
 	transform:rotate(360deg);
 }
 .social-roll_youtube {
-	background-image: url('../img/YouTube.png');
+	background-image: url('../img/social/YouTube.png');
 	height: 48px;
 	width: 48px;
 	margin: 5px;
@@ -1015,7 +1015,7 @@ footer {
 	transition: all ease 0.3s;
 }
 .social-roll_youtube:hover {
-	background-image: url('../img/YouTube_hover.png');
+	background-image: url('../img/social/YouTube_hover.png');
 	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
@@ -1024,7 +1024,7 @@ footer {
 	transform:rotate(360deg);
 }
 .social-roll_twitter {
-	background-image: url('../img/Twitter.png');
+	background-image: url('../img/social/Twitter.png');
 	height: 32px;
 	width: 32px;
 	margin: 5px;
@@ -1037,7 +1037,7 @@ footer {
 	transition: all ease 0.3s;
 }
 .social-roll_twitter:hover {
-	background-image: url('../img/Twitter_hover.png');
+	background-image: url('../img/social/Twitter_hover.png');
 	
 	-webkit-transform:rotate(360deg);
 	-moz-transform:rotate(360deg);
